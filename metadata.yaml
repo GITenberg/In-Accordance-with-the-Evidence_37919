@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5392
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Onions
 description: 'Sequels: The Debit Account, #37479, and The Story of Louie, #37838.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37919#In-Accordance-with-the-Evidence
 gutenberg_issued: '2011-11-04'
 gutenberg_type: Text
 identifiers:
